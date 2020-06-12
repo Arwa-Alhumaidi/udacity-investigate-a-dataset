@@ -1,2 +1,3 @@
-# udacity-investigate-a-dataset
-Udacity Data Analysis Nanodegree Project: Investigate a Dataset
+# Udacity Data Analysis Nanodegree Project: Investigate a Dataset
+
+For this project, we will conduct our own data analysis and create a file to share that documents our findings. We should start by taking a look at our dataset and brainstorming what questions we could answer using it. Then we should use pandas and NumPy to answer the questions we are most interested in, and create a report sharing the answers. We will not be required to use inferential statistics or machine learning to complete this project, but we should make it clear in our communications that our findings are tentative. This project is open-ended in that we are not looking for one right answer.
